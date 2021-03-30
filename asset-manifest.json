@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/spotkania/static/css/main.1af4d3ce.chunk.css",
+    "main.js": "/spotkania/static/js/main.f9b4231e.chunk.js",
+    "main.js.map": "/spotkania/static/js/main.f9b4231e.chunk.js.map",
+    "runtime-main.js": "/spotkania/static/js/runtime-main.a9575f8e.js",
+    "runtime-main.js.map": "/spotkania/static/js/runtime-main.a9575f8e.js.map",
+    "static/js/2.fae1803f.chunk.js": "/spotkania/static/js/2.fae1803f.chunk.js",
+    "static/js/2.fae1803f.chunk.js.map": "/spotkania/static/js/2.fae1803f.chunk.js.map",
+    "index.html": "/spotkania/index.html",
+    "static/css/main.1af4d3ce.chunk.css.map": "/spotkania/static/css/main.1af4d3ce.chunk.css.map",
+    "static/js/2.fae1803f.chunk.js.LICENSE.txt": "/spotkania/static/js/2.fae1803f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9575f8e.js",
+    "static/js/2.fae1803f.chunk.js",
+    "static/css/main.1af4d3ce.chunk.css",
+    "static/js/main.f9b4231e.chunk.js"
+  ]
+}
